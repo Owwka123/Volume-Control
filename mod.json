@@ -1,0 +1,33 @@
+{
+	"geode": "4.2.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "owwka.volume_control",
+	"name": "Volume Control",
+	"version": "v1.1.0",
+	"developer": "Owwka",
+	"description": "Change your gd volume quickly.",
+	"tags": [
+		"music"
+	],
+	"settings": {
+		"duration": {
+			"type": "float",
+			"name": "Duration",
+			"description": "How long the popup will stay on the screen",
+			"default": 2,
+			"min": 0.5,
+			"max": 10,
+			"controls": {
+				"arrow-step": 0.5,
+				"slider": true,
+				"slider-step": 0.1,
+				"input": true
+			}
+		}
+	}
+}
