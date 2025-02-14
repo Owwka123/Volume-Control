@@ -11,6 +11,10 @@
 	"version": "v1.1.0",
 	"developer": "Owwka",
 	"description": "Change your gd volume quickly.",
+	"repository": "https://github.com/Owwka123/Volume-Control",
+	"links": {
+		"source": "https://github.com/Owwka123/Volume-Control"
+	},
 	"tags": [
 		"music"
 	],
